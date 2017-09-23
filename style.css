@@ -1,0 +1,163 @@
+body{
+	background-image: url(images/icon.jpg);
+	background-size: ;
+	background-attachment: fixed;
+}
+.brush{
+	background-image: url(images/Logo%20Linkin%20Park.png);
+	background-size: cover;
+	width: 300px;
+	height: 180px;
+	margin: 0 70% 5% 80%;
+}
+
+.zetta
+ {
+	background-size: cover;
+	width: 250px;
+	height: 260px;
+	margin: 5% 70% 0 65%;
+}
+
+.mainpage{
+	padding-top: 22%;
+	padding-left: 5%;	
+}
+.span{
+	color: black;
+	padding: 1%;	
+	text-decoration: none;
+}
+ul li{
+	list-style-type: none;
+	display: inline;
+
+}
+
+.icon{
+	text-align: center;
+	clear: both;
+	width: 140px;
+}
+
+.line{
+	height: 40%;
+}
+table{
+	padding: 2% 30% 5% 32%;
+	height: 20%;
+	border-spacing: 20px 20px;	
+}
+
+.Chester{
+	background-color: rgba(0, 0, 0, 0.53);
+	border: 2px solid #fff;
+	border-radius: 50px;
+	color:white;
+}
+.Chester:hover{
+	background-image: url(images/tumblr_ln5r8na3zl1qa84bdo1_500_large.jpg);
+	background-size: cover; 
+}
+
+.Mike{
+	background-color: rgba(0, 0, 0, 0.53);
+	border: 2px solid #fff;
+	border-radius: 50px;
+	color:white;	
+}
+.Mike:hover{
+	background-image: url(images/1410856431_mikenew_39.jpg);
+	background-size: cover; 	
+}
+
+.Brad{
+	background-color: rgba(0, 0, 0, 0.53);
+	border: 2px solid #fff;
+	border-radius: 50px;
+	color:white;
+}
+.Brad:hover{
+	background-image: url(images/35.jpg);
+	background-size: cover; 
+}
+
+
+.David{
+	background-color: rgba(0, 0, 0, 0.53);
+	border: 2px solid #fff;
+	border-radius: 50px;
+	color:white;	
+}
+.David:hover{
+	background-image: url(images/Linkin+Park+B+z+Perform+Fundraising+Fans+Mayan+p9PSDOc6O9Ex.jpg);
+	background-size: cover; 
+}
+
+.Rob{
+	background-color: rgba(0, 0, 0, 0.53);
+	border: 2px solid #fff;
+	border-radius: 50px;
+	color:white;
+}
+.Rob:hover{
+	background-image: url(images/119816388422.jpg);
+	background-size: cover; 
+}
+
+.Joe{
+	background-color: rgba(0, 0, 0, 0.53);
+	border: 2px solid #fff;
+	border-radius: 50px;
+	color:white;
+}
+.Joe:hover{
+	background-image: url(images/2014%252F07%252F24%252Fa9%252Fjoehahnmall.730eb.jpg);
+	background-size: cover; 
+}
+
+
+#content {
+    width: 500px; 
+    margin: 0 auto 50px; 
+   }
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 5px;
+    background: rgba(19, 17, 17, 0.28);
+    color: #fff;
+    width: 99%;
+   }
+
+.color:hover {
+  background:#53ea93;
+}
+
+.hit-the-floor
+{
+    
+    color: rgba(0, 0, 0, 0.83);
+    font-size: 12em;
+    font-weight: bold;
+    font-family: Helvetica;
+    text-shadow: 0  1px 0   #ccc,   0   2px 0   #c9c9c9,    0   3px 0   #bbb,   0   4px 0   #b9b9b9, 0 5px 0 #aaa, 0 6px 1px
+        rgba(0,0,0,.1), 0 0 5px
+        rgba(0,0,0,.1), 0 1px 3px
+        rgba(0,0,0,.3), 0 3px 5px
+        rgba(0,0,0,.2), 0 5px 10px
+        rgba(0,0,0,.25),0 10px 10px 
+        rgba(0,0,0,.2), 0 20px 20px
+        rgba(0,0,0,.15);    
+    
+}
+        
+.hit-the-floor
+{
+    text-align: center;
+    margin: -10% 0 0 25%;
+}
+        
+

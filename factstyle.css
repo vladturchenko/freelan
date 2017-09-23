@@ -1,0 +1,68 @@
+body{
+	background-image: url(images/icon.jpg);
+	background-size: ;
+	background-attachment: fixed;
+}
+.brush{
+	background-image: url(images/Logo%20Linkin%20Park.png);
+	background-size: cover;
+	width: 300px;
+	height: 180px;
+	margin: 0 70% 5% 80%;
+}
+
+
+.mainpage{
+	padding-top: 22%;
+	padding-left: 5%;	
+}
+.span{
+	color: black;
+	padding: 1%;	
+	text-decoration: none;
+}
+ul li{
+	list-style-type: none;
+	display: inline;
+
+}
+.facts{
+	border: 1px solid #414141;
+	margin: 2% 39% 0% 75%;
+	height: 910px;
+    width: 400px;
+}
+
+.right{
+    float: right;
+    width: 30%;
+    margin: 2%;
+}
+.center{
+    margin: 4%;
+}
+.left{
+    float: left;
+    width: 30%;
+    margin: 2%;
+}
+
+
+span{
+	color:#0a3a5e;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 5px;
+    background: rgba(19, 17, 17, 0.28);
+    color: #fff;
+    width: 99%;
+   }
+
+audio {
+    background: rgba(19, 17, 17, 0.28);
+    color: lawngreen;
+}
